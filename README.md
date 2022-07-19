@@ -1,6 +1,9 @@
-- 👋 Asalamu Aleykum, I’m @SuldAn
+- 👋 Asalamu Aleykum, I’m @SuldAn Pashir
+
 - 👀 I’m interested in Women and sports
-- 🌱 I’m currently learning IT, Computer Science and Forex Trading
+
+- 🌱 I’m currently web developer, cyber security and Forex Trading
+
 - 📫 How to reach me ... ..........@.....com
 
 <!---
